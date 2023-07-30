@@ -1,0 +1,17 @@
+ {
+        "id": 0,
+        "bio": "string,
+        "title": "string,
+        "summary": "string,
+        "headline": "string,
+        "entityTypeId": 1,
+        "statusId": "Active,
+        "slug": "string,
+        "skills": null,
+        "primaryImage": {
+          "id": 0,
+          "entityId": 0,
+          "imageTypeId": "Main,
+          "imageUrl": "string"
+        }
+  }
